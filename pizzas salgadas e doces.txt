@@ -1,0 +1,39 @@
+SALGADAS
+
+    Calabresa            
+    Mussarela
+    Marguerita
+    Napolitana
+    Toscana
+    Calacatu
+    Portuguesa
+    Bauru
+    Milho
+    Bacon
+    Peperroni
+    Capitão
+    Calafrango
+    Batata Cheddar
+    Burguer
+    Brócolis
+    Escarola
+    Vegetáriana
+          
+    DOCES
+
+    Brigadeiro
+    KitKat
+    Confeti
+    Prestígio
+    Rafaelo
+    Sonho de Valsa
+    Ouro Branco
+    Doce de leite com côco
+    Banana com chocolate
+    Banana com Canela
+    Twix
+    Oreo
+    Negresco
+    Hershey's
+    Hershey's branco
+    Floresta Negra

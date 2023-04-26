@@ -6,9 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="imagens/PIZZA.ico.png" type="image/x-icon">
     <title>Faça seu pedido aqui</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 22px;
+            background-image: url(imagens/pizzamesa.jpg) no-repeat;
+            background-size: cover;
+        }
+    </style>
 </head>
 <body>
     <h1>Faça seu pedido por aqui</h1>
-    
+    <div class="pedido">
+        <label for="ipedido">Pedido</label>
+        <input type="text" name="pedido" id="ipedido">
+        
+        <label for="itirar">Tirar</label>
+        <input type="text" name="tira" id="itora">
+
+        <label for="iextra">Acrescentar</label>
+        <input type="text" name="extra" id="iextra">
+       
+        <input type="reset" value="Limpar">
+        <input type="submit" value="Enviar">
+    </div>
 </body>
 </html>

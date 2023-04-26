@@ -36,7 +36,7 @@ body {
 
 main{
     min-width: 300px;
-    max-width: 1000px;
+    max-width: 910px;
     margin: auto;
     border-radius: 5px;
 }
@@ -49,7 +49,7 @@ h1 {
 header {
     background-image: linear-gradient(to right, var(--cor2), var(--cor3), var(--cor4));
     min-width: 300px;
-    max-width: 1000px;
+    max-width: 900px;
     margin: auto;
     margin-bottom: 7px;
     border-radius: 5px;
@@ -66,7 +66,7 @@ header h1 {
 
 nav {
     min-width: 300px;
-    max-width: 980px;
+    max-width: 880px;
     background-color: #0C0C0C;
     margin: auto;
     text-align: center;
